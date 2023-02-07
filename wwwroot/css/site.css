@@ -1,0 +1,14 @@
+﻿/* styling for my page */
+
+body{
+    background-color: mintcream;
+    font-family: Arial;
+}
+
+li {
+    text-decoration: underline;
+}
+
+img {
+    border-radius: 12px;
+}
